@@ -1,5 +1,20 @@
 # 💫 About Me:
-👋 Hey, I'm Saksham Vitwekar<br><br>💻 Programmer since the age of 8<br>I love turning ideas into code and building things that push creativity and performance. Whether it's low-level systems, game engines, automation, AI, or full-stack web development, if it challenges me — I enjoy it.<br><br>🧠 What I Do<br><br>🚀 Exploring: AI-ML, Low-Level Programming, Web Dev, Game Dev, Automation, Embedded Systems<br>🎮 Open to collaborating on Game Development projects<br><br>📌 Featured Project<br>🔗 CRAW → https://github.com/SomeTroller77/CRAW<br><br>🔗 Connect with Me<br><br>💼 LinkedIn — www.linkedin.com/in/saksham-vitwekar-92a141343<br><br>📸 Instagram — https://instagram.com/SomeTroller77<br><br>🎮 Discord — SomeTroller77<br><br>♟️ FIDE Chess Profile — http://ratings.fide.com/profile/558084410<br><br>🎯 Beyond Coding<br><br>🕹️ GTA 5 • COD: MW • Delta Force<br>♟️ Chess player & competitive mindset<br>🔥 Always seeking the next challenge<br><br>
+### 👋 Hey, I'm Saksham Vitwekar<br><br>
+💻 Programmer since the age of 8<br>
+I love turning ideas into code and building things that push creativity and performance. Whether it's low-level systems, game engines, automation, AI, or full-stack web development, if it challenges me — I enjoy it.<br><br>
+## 🧠 What I Do<br><br>🚀 
+Exploring: AI-ML, Low-Level Programming, Web Dev, Game Dev, Automation, Embedded Systems<br>
+🎮 Open to collaborating on Game Development projects<br><br>
+📌 Featured Project<br>🔗 CRAW → https://github.com/SomeTroller77/CRAW<br><br>
+## 🔗 Connect with Me<br><br>
+💼 LinkedIn — www.linkedin.com/in/saksham-vitwekar-92a141343<br><br>
+📸 Instagram — https://instagram.com/SomeTroller77<br><br>
+🎮 Discord — SomeTroller77<br><br>
+♟️ FIDE Chess Profile — http://ratings.fide.com/profile/558084410<br><br>
+## 🎯 Beyond Coding<br><br>
+🕹️ GTA 5 • COD: MW • Delta Force<br>
+♟️ Chess player & competitive mindset<br>
+🔥 Always seeking the next challenge<br><br>
 
 
 ## 🌐 Socials:
