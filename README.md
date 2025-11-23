@@ -8,10 +8,10 @@ I love turning ideas into code and building things that push creativity and perf
 ## 📌 Featured Project<br>
 🔗 CRAW → https://github.com/SomeTroller77/CRAW<br><br>
 ## 🔗 Connect with Me<br>
-💼 LinkedIn — www.linkedin.com/in/saksham-vitwekar-92a141343<br>
-📸 Instagram — https://instagram.com/SomeTroller77<br>
+💼 [LinkedIn](www.linkedin.com/in/saksham-vitwekar-92a141343)<br>
+📸 [Instagram](https://instagram.com/SomeTroller77)<br>
+♟️ [FIDE Chess Profile](http://ratings.fide.com/profile/558084410)<br><br>
 🎮 Discord — SomeTroller77<br>
-♟️ FIDE Chess Profile — http://ratings.fide.com/profile/558084410<br><br>
 ## 🎯 Beyond Coding<br>
 🕹️ GTA 5 • COD: MW • Delta Force<br>
 ♟️ Chess player & competitive mindset<br>
