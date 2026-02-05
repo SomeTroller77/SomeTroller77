@@ -13,7 +13,7 @@ I love turning ideas into code and building things that push creativity and perf
 ♟️ [FIDE Chess Profile](http://ratings.fide.com/profile/558084410)<br>
 🎮 Discord — SomeTroller77<br><br>
 ## 🎯 Beyond Coding<br>
-🕹️ GTA 5 • COD: MW • Delta Force<br>
+🕹️ GTA 5 • COD: MW • RDR 2<br>
 ♟️ Chess player & competitive mindset<br>
 🔥 Always seeking the next challenge<br><br>
 
